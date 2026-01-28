@@ -25,13 +25,11 @@ Two sensor placements were explored:
 
 ```
 .
-├── arduino_imu_logger.ino      # Arduino firmware for IMU streaming
+├── IMU_data_collection.ino     # Arduino firmware for IMU streaming
 ├── serial_to_csv_logger.py     # Python script for serial logging to CSV
-├── examples/
-│   └── sample_data.csv         # Small example dataset
 ├── docs/
-│   ├── poster.pdf              # Project poster
-│   └── case_competition_paper.pdf
+│   ├── PGA_poster.jpg          # Project poster
+│   └── PGA_GCC_R2.pdf          # Google Case Competition Ronud Two Submission
 ├── README.md
 └── LICENSE
 ```
