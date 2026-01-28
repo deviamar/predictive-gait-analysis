@@ -112,10 +112,39 @@ These describe the motivation, design rationale, and system-level framing of the
 
 ---
 
+# Exploratory iOS App (SwiftUI) — Unfinished
+
+This directory contains an early SwiftUI prototype exploring end-to-end mobile data capture and storage for the Predictive Gait Analysis project.
+
+## Goals explored
+- Direct IMU → iPhone data logging (mobile-first acquisition)
+- Session storage and retrieval via a Supabase backend
+- Role-based login and workflow (patient vs clinician)
+
+## Status
+This is an unfinished prototype and is not production-ready. It was developed to evaluate feasibility and system architecture, and the current project’s primary data collection pipeline uses Arduino + serial logging instead.
+
+## Notes
+- Backend: Supabase (auth + storage)
+- UI: SwiftUI
+- Intended workflow: patients record sessions; clinicians review trends and flagged patterns
+
+---
+
 ## Scope and Limitations
 
 This project is an experimental prototype and is **not** a medical device.
 It does not perform clinical diagnosis and has not been validated in patient populations. The system is intended for research and educational purposes only.
+
+---
+
+## Future Directions
+
+The next steps for this project would focus on extending the system toward more natural data collection and clinical relevance. I would first enable direct IMU-to-iPhone communication via Bluetooth Low Energy (BLE) to support mobile session logging and real-time visualization.
+
+I would then collaborate with physicians and acute rehabilitation facilities to systematically map observed human motion patterns to clinically meaningful gait abnormalities and validate detected patterns against clinical assessments.
+
+Finally, I would expand the analysis pipeline to translate detected gait abnormalities into interpretable feedback, relating them to likely biomechanical causes and corresponding exercise or treatment recommendations.
 
 ---
 
