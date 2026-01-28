@@ -106,3 +106,10 @@ Simulated gaits were selected based on:
 * Muscle-based origin (rather than irreversible neurodegeneration)
 * Potential reversibility through exercise or therapy
 * Detectability using IMU signals (e.g., step asymmetry, trunk lean, foot clearance)
+
+## Dataset
+
+Raw IMU recordings, synchronized walking videos, and experiment notes are hosted externally due to file size:
+
+**Supplementary Data (Google Drive):**  
+https://drive.google.com/drive/folders/1rCGqkWPsfDxp_-JHScxSccDoRixHejuz?usp=sharing
