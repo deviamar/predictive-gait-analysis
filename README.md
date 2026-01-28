@@ -99,10 +99,7 @@ Record walking trials under different conditions:
 
 Raw IMU recordings, synchronized walking videos, and experiment notes are hosted externally due to file size:
 
-**Supplementary Data (Google Drive):**
 [https://drive.google.com/drive/folders/1rCGqkWPsfDxp_-JHScxSccDoRixHejuz?usp=sharing](https://drive.google.com/drive/folders/1rCGqkWPsfDxp_-JHScxSccDoRixHejuz?usp=sharing)
-
-This repository includes only small example CSV files for demonstration.
 
 ---
 
