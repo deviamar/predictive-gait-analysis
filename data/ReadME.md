@@ -1,6 +1,8 @@
 # Data Directory
 
-This directory contains IMU recordings and synchronized videos of walking trials collected for the Predictive Gait Analysis project. Data were recorded across multiple sessions to capture normal walking, cane usage variations, and simulated gait abnormalities associated with muscle weakness and balance impairment.
+The Google Drive linked below contains IMU recordings and synchronized videos of walking trials collected for the Predictive Gait Analysis project. Data were recorded across multiple sessions to capture normal walking, cane usage variations, and simulated gait abnormalities associated with muscle weakness and balance impairment.
+
+https://drive.google.com/drive/folders/1rCGqkWPsfDxp_-JHScxSccDoRixHejuz?usp=sharing
 
 ---
 
@@ -106,10 +108,3 @@ Simulated gaits were selected based on:
 * Muscle-based origin (rather than irreversible neurodegeneration)
 * Potential reversibility through exercise or therapy
 * Detectability using IMU signals (e.g., step asymmetry, trunk lean, foot clearance)
-
-## Dataset
-
-Raw IMU recordings, synchronized walking videos, and experiment notes are hosted externally due to file size:
-
-**Supplementary Data (Google Drive):**  
-https://drive.google.com/drive/folders/1rCGqkWPsfDxp_-JHScxSccDoRixHejuz?usp=sharing
